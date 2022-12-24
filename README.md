@@ -1,8 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/73807228/153535920-9961208e-36e3-452f-aaef-12db2987544b.gif)
-<h1 align="center">Hi 👋, I'm Erik Li</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center"> ✎﹏﹏𝑬𝒓𝒊𝒌 𝑳𝒊﹏﹏</h1>
+<h3 align="center"> Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekliswe&label=Profile%20views&color=0e75b6&style=flat" alt="ekliswe" /> </p>
+
+- 🏫 Master in Computer Science at **Boston University**
 
 - 🔭 I’m currently working on [Linkedin ReactJS Project](https://ekliswe.github.io/Linkedin_clone_yt/)
 
@@ -14,11 +16,13 @@
 
 - 💬 Ask me about **React, Angular, Vue.js, Boostrap**
 
+
 - 📫 How to reach me **erikli2402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Zya5bNhaM4inQgA-SnAk2YyGqL_RTEN/view?usp=share_link](https://drive.google.com/file/d/11Zya5bNhaM4inQgA-SnAk2YyGqL_RTEN/view?usp=share_link)
+- 📄 Check out my resume [Here](https://drive.google.com/file/d/11Zya5bNhaM4inQgA-SnAk2YyGqL_RTEN/view?usp=share_link)
 
-- ⚡ Fun fact **I love vlogging**
+- ⚡ Fun fact **I love vlogging/cooking**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
